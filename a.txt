@@ -1,2 +1,1 @@
-changes from remote
-ready for conflict
+a 3 a varianta
